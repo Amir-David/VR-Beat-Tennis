@@ -1,7 +1,7 @@
 
 # VR Beat Tennis
 
-VR Beat Tennis is a rhythm-based virtual reality game developed in Unity as the final project for the PROJECT IN COMPUTER GRAPHICS course.
+VR Beat Tennis is a rhythm-based virtual reality game developed in Unity as the final project towards a BSc in computer graphics in the University of Haifa, under the supervision of Prof. Roi Poranne.
 
 ## Game Overview
 
